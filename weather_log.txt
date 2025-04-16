@@ -1,0 +1,5 @@
+City: Toronto
+Temperature: 6.5°C
+Condition: clear sky
+Time: 2025-04-16 11:02:00
+---
