@@ -1,6 +1,12 @@
 # 🌦 Weather App (Python GUI)
 
-A simple weather app built using Python and OpenWeatherMap API. Enter any city and get live weather updates including temperature and conditions.
+## 📸 Screenshot
+
+![Weather App Screenshot](screenshot.png)
+
+A simple weather app built using Python and the OpenWeatherMap API. Enter any city name and get live weather updates including temperature and conditions. Data is also saved to a log file for reference.
+
+---
 
 ## 🧰 Tech Stack
 - Python 3
@@ -8,8 +14,13 @@ A simple weather app built using Python and OpenWeatherMap API. Enter any city a
 - Requests (API calls)
 - OpenWeatherMap API
 
-## 🚀 How to Use
-1. Sign up for a free API key at https://openweathermap.org/api
-2. Run the app:
-```bash
-python weather_app.py
+---
+
+## 🛠 Setup Instructions
+
+### 1. Replace the API Key
+- Sign up at [OpenWeatherMap](https://openweathermap.org/api)
+- Get your free API key
+- Open `weather_app.py` and replace:
+  ```python
+  API_KEY = "your_api_key_here"
