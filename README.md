@@ -24,3 +24,19 @@ A simple weather app built using Python and the OpenWeatherMap API. Enter any ci
 - Open `weather_app.py` and replace:
   ```python
   API_KEY = "your_api_key_here"
+  
+
+2. Run the App
+ python weather_app.py
+
+🚀 Usage
+Enter a city name
+
+Click “Get Weather”
+
+The result will:
+
+Display on the GUI
+
+Save automatically to weather_log.txt
+
